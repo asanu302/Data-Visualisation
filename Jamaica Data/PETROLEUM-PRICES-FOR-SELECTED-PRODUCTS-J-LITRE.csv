@@ -1,0 +1,141 @@
+Price Type,Year,Fuel Type 1,Amount
+Ex-refinery Price,2010,L.P.G,37.46
+Ex-refinery Price,2010,E10-90,55.49
+Ex-refinery Price,2010,E10-87,54.42
+Ex-refinery Price,2010,A.D.O,55.12
+Ex-refinery Price,2010,Kerosene,56.56
+Ex-refinery Price,2010,Fuel Oil,45.45
+Ex-refinery Price,2010,ULSD,85.00
+Ex-refinery Price,2011,L.P.G,49.24
+Ex-refinery Price,2011,E10-90,71.14
+Ex-refinery Price,2011,E10-87,70.04
+Ex-refinery Price,2011,A.D.O,74.87
+Ex-refinery Price,2011,Kerosene,77.15
+Ex-refinery Price,2011,Fuel Oil,61.24
+Ex-refinery Price,2011,ULSD,90.00
+Ex-refinery Price,2012,L.P.G,45.05
+Ex-refinery Price,2012,E10-90,77.78
+Ex-refinery Price,2012,E10-87,76.65
+Ex-refinery Price,2012,A.D.O,79.90
+Ex-refinery Price,2012,Kerosene,81.40
+Ex-refinery Price,2012,Fuel Oil,66.85
+Ex-refinery Price,2012,ULSD,93.42
+Ex-refinery Price,2013,L.P.G,49.41
+Ex-refinery Price,2013,E10-90,85.65
+Ex-refinery Price,2013,E10-87,84.52
+Ex-refinery Price,2013,A.D.O,88.58
+Ex-refinery Price,2013,Kerosene,89.45
+Ex-refinery Price,2013,Fuel Oil,72.45
+Ex-refinery Price,2013,ULSD,96.60
+Ex-refinery Price,2014,L.P.G,54.97
+Ex-refinery Price,2014,E10-90,93.32
+Ex-refinery Price,2014,E10-87,92.18
+Ex-refinery Price,2014,A.D.O,94.70
+Ex-refinery Price,2014,Kerosene,97.55
+Ex-refinery Price,2014,Fuel Oil,76.71
+Ex-refinery Price,2014,ULSD,97.52
+Ex-refinery Price,2015,L.P.G,35.89
+Ex-refinery Price,2015,E10-90,72.28
+Ex-refinery Price,2015,E10-87,71.14
+Ex-refinery Price,2015,A.D.O,65.97
+Ex-refinery Price,2015,Kerosene,71.04
+Ex-refinery Price,2015,Fuel Oil,49.52
+Ex-refinery Price,2015,ULSD,74.16
+Refinery Billing Price,2010,L.P.G,37.50
+Refinery Billing Price,2010,E10-90,82.76
+Refinery Billing Price,2010,E10-87,81.11
+Refinery Billing Price,2010,A.D.O,81.12
+Refinery Billing Price,2010,Kerosene,82.78
+Refinery Billing Price,2010,Fuel Oil,45.60
+Refinery Billing Price,2010,ULSD,112.82
+Refinery Billing Price,2011,L.P.G,49.28
+Refinery Billing Price,2011,E10-90,97.49
+Refinery Billing Price,2011,E10-87,95.84
+Refinery Billing Price,2011,A.D.O,100.44
+Refinery Billing Price,2011,Kerosene,102.99
+Refinery Billing Price,2011,Fuel Oil,61.39
+Refinery Billing Price,2011,ULSD,117.62
+Refinery Billing Price,2012,L.P.G,45.09
+Refinery Billing Price,2012,E10-90,103.68
+Refinery Billing Price,2012,E10-87,101.84
+Refinery Billing Price,2012,A.D.O,104.88
+Refinery Billing Price,2012,Kerosene,106.49
+Refinery Billing Price,2012,Fuel Oil,67.00
+Refinery Billing Price,2012,ULSD,120.10
+Refinery Billing Price,2013,L.P.G,49.45
+Refinery Billing Price,2013,E10-90,112.68
+Refinery Billing Price,2013,E10-87,111.02
+Refinery Billing Price,2013,A.D.O,114.71
+Refinery Billing Price,2013,Kerosene,115.67
+Refinery Billing Price,2013,Fuel Oil,72.60
+Refinery Billing Price,2013,ULSD,123.79
+Refinery Billing Price,2014,L.P.G,55.13
+Refinery Billing Price,2014,E10-90,120.76
+Refinery Billing Price,2014,E10-87,119.10
+Refinery Billing Price,2014,A.D.O,121.11
+Refinery Billing Price,2014,Kerosene,124.24
+Refinery Billing Price,2014,Fuel Oil,76.86
+Refinery Billing Price,2014,ULSD,124.22
+Refinery Billing Price,2015,L.P.G,37.62
+Refinery Billing Price,2015,E10-90,105.47
+Refinery Billing Price,2015,E10-87,103.81
+Refinery Billing Price,2015,A.D.O,97.35
+Refinery Billing Price,2015,Kerosene,96.84
+Refinery Billing Price,2015,Fuel Oil,49.67
+Refinery Billing Price,2015,ULSD,106.37
+Retail Price,2010,L.P.G,56.71
+Retail Price,2010,E10-90,96.98
+Retail Price,2010,E10-87,92.26
+Retail Price,2010,A.D.O,92.91
+Retail Price,2010,Kerosene,86.54
+Retail Price,2010,Fuel Oil,47.57
+Retail Price,2010,ULSD,130.00
+Retail Price,2011,L.P.G,68.49
+Retail Price,2011,E10-90,113.25
+Retail Price,2011,E10-87,108.04
+Retail Price,2011,A.D.O,113.54
+Retail Price,2011,Kerosene,107.04
+Retail Price,2011,Fuel Oil,63.39
+Retail Price,2011,ULSD,135.00
+Retail Price,2012,L.P.G,71.16
+Retail Price,2012,E10-90,120.90
+Retail Price,2012,E10-87,115.11
+Retail Price,2012,A.D.O,119.36
+Retail Price,2012,Kerosene,110.77
+Retail Price,2012,Fuel Oil,68.97
+Retail Price,2012,ULSD,138.52
+Retail Price,2013,L.P.G,74.17
+Retail Price,2013,E10-90,131.59
+Retail Price,2013,E10-87,125.19
+Retail Price,2013,A.D.O,130.03
+Retail Price,2013,Kerosene,119.82
+Retail Price,2013,Fuel Oil,75.94
+Retail Price,2013,ULSD,140.62
+Retail Price,2014,L.P.G,71.29
+Retail Price,2014,E10-90,142.13
+Retail Price,2014,E10-87,135.06
+Retail Price,2014,A.D.O,138.62
+Retail Price,2014,Kerosene,128.66
+Retail Price,2014,Fuel Oil,81.83
+Retail Price,2014,ULSD,142.86
+Retail Price,2015,L.P.G,67.23
+Retail Price,2015,E10-90,131.84
+Retail Price,2015,E10-87,123.92
+Retail Price,2015,A.D.O,119.53
+Retail Price,2015,Kerosene,107.19
+Retail Price,2015,Fuel Oil,54.64
+Retail Price,2015,ULSD,129.64
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
